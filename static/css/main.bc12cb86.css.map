@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.bc12cb86.css","mappings":"AAMA,SACI,SAAU,CAEV,eAAgB,CADhB,6BAAsB,CAAtB,qBAEJ","sources":["App.css"],"sourcesContent":["/* .form-check-input:checked {\r\n    background-color: red;\r\n    border-color: pink;\r\n} */\r\n\r\n\r\n#labelId{\r\n    color: red;\r\n    text-decoration: solid;\r\n    font-weight: 400;\r\n}"],"names":[],"sourceRoot":""}
